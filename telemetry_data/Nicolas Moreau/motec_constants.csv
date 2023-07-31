@@ -1,0 +1,41 @@
+name,value,unit,comment
+PI,3.14159265,,
+PI,3.14159265,,
+SteerPinion157,40,mm,
+SteerPinion183,46.5,mm,These must be in metric
+SteerPinion208,53,mm,
+SteerPinion236,60,mm,
+SteerPinion264,67,mm,
+SteerPinion287,73,mm,
+SteerPinion315,80,mm,
+SteerRatio15,15.5,,
+SteerRatio1650,17,,was 16.5. 
+SteerRatio1775,18.5,,was 17.75
+SteerRatio1975,20.5,,was 19.75
+SteerRatio2250,24,,was 22.50
+SteerRatio2575,27.5,,was 25.5
+SteerRatio30,31,,was 30
+ArbMM2Inch,25.45454545454545,,
+ArbPreloadmm2ftlbs,0.1927710843373494,,
+CubicInch2CubicFt,1728,,
+Engine_BTU_EQ_Reducer,7.466,,
+inch2meters,0.0254,,
+Kg2Pounds,2.204623,,
+kpa2lbsi,0.145,,
+LF_Nmm2InLbs,5.70866,,
+LittleGravity,9.80665,m/s/s,
+LRRubBlockHeight,.5,,
+MeterSecondsToMPH,2.23694,,
+mmToInch,25.4,,
+Mph2FeetPerSec,1.466667,,
+MtoInchConverter,39.3701,,
+Newton2Pounds,4.446743,,
+NextGenCamShaftHeight,12,,
+NextGenTireDiameterLeft,28.17,in,
+NextGenTireDiameterRight,28.53,in,
+NextGenTireWidth,14,,
+NextGenTrackWidth,79,in,
+NextGenWheelBase,110,in,
+Nmm2InLbs,5.714286,,
+Pi,3.14159265359,,
+ThermalEfficiency,.3,,

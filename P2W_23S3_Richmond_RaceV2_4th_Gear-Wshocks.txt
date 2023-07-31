@@ -1,0 +1,75 @@
+setup: Richmond\23S3\P2W_23S3_Richmond_RaceV2_4th_Gear-Wshocks
+track: richmond
+Car: stockcars chevycamarozl12022
+Driver: 
+LF Cold pressure: 10.0
+LR Cold pressure: 14.0
+RF Cold pressure: 28.0
+RR Cold Pressure: 28.0
+Nose weight:L 50.8%
+Cross weight: 59.0%
+Steering pinion: 2.87
+Steering offset: +0
+Front MC: 15/16
+Rear MC: 27/32
+Front brake bias: 39.2%
+LF Corner weight: 824
+LF Ride height: 1.726
+LF Shock collar offset: 4.188
+LF Spring rate: 3900
+LF LS compressioncks: 2
+LF HS compression: 2
+LF HS comp slope: 3
+LF LS rebound: 6
+LF HS rebound: 1
+LF HS reb slope: 3
+LF Camber: +4.4
+LF Caster: +10.9
+LF Toe-in: +0/32
+LR Corner weight: 1115 lbs
+LR Shock collar offset: 5.844"
+LR Spring rate: 750 lbs/in
+LR LS compression: 4 clicks
+LR HS compression: 5 clicks
+LR HS comp slope: 3 clicks
+LR LS rebound: 5 clicks
+LR HS rebound: 5 clicks
+LR HS reb slope: 3 clicks
+LR Camber: +3.1 deg
+LR Toe-in: -0/32"
+Front ARB Diameter: 2.000"
+Front ARB arm: P5 (stiff) 
+Front ARB preload: -15.6 ft-lbs
+Front ARB Attach: Yes
+RF Corner weight: 1001 lbs
+RF Ride height: 2.169 in
+RF Shock collar offset: 3.125"
+RF Spring rate: 3900 lbs/in
+RF LS compression: 1 clicks
+RF HS compression: 2 clicks
+RF HS comp slope: 3 clicks
+RF LS rebound: 6 clicks
+RF HS rebound: 1 clicks
+RF HS reb slope: 3 clicks
+RF Camber: -4.4 deg
+RF Caster: +10.9 deg
+RF Toe-in: +0/32"
+RR Corner weight: 648 lbs
+RR Ride height: 1.899 in
+RR Shock collar offset: 4.000"
+RR Spring rate: 4600 lbs/in
+RR LS compression: 4 clicks
+RR HS compression: 5 clicks
+RR HS comp slope: 3 clicks
+RR LS rebound: 5 clicks
+RR HS rebound: 4 clicks
+RR HS reb slope: 3 clicks
+RR Camber: -3.1 deg
+RR Toe-in: -0/32"
+gear ratio: 4.691
+Diff preload: 0 ft-lbs
+Rear ARB Diameter: 2.000"
+Rear ARB arm: P5 (stiff) 
+Rear ARB preload: 1.2 ft-lbs
+Rear ARBAttach: Yes
+Notes:
