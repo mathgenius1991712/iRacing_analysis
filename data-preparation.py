@@ -13,7 +13,7 @@ root.withdraw()  # Hide the small tk window
 file_path = filedialog.askopenfilename()
 
 # Load the data
-df = pd.read_csv(file_path, skiprows=14, dtype=str)  # Skip the first 14 rows and read all data as string
+df = pd.read_csv(file_path, dtype=str)  # Skip the first 14 rows and read all data as string
 
 # Remove units row (if any)
 df = df[~df['Time'].str.contains('s')]
@@ -35,7 +35,7 @@ df = df[variables_of_interest]
 
 # Save the correlation matrix to a CSV file.
 corr_matrix = df.corr()
-df.corr().to_csv(r'C:\Users\Elfrost\Documents\NETproject\iRacing_Engineer\correlation_matrix.csv')
+df.corr().to_csv('correlation_matrix.csv')
 
 # The following code is commented out to prevent generating a plot for each variable.
 # If you want to generate these plots, simply remove the triple quotes before and after this section of code.

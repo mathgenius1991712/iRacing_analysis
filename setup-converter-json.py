@@ -53,9 +53,10 @@ def save_to_csv(data, csv_file_path):
     # Save the DataFrame to a CSV file
     setup_data.to_csv(csv_file_path, index=False)
 
+
 # Usage:
-file_path = r'C:\Users\Elfrost\Documents\NETproject\iRacing_Engineer\telemetry_data\Nicolas Moreau\P2W_23S3_Richmond_RaceV2_4th_Gear-Wshocks.htm'  # replace with your file path
-csv_file_path = r'C:\Users\Elfrost\Documents\NETproject\iRacing_Engineer\telemetry_data\Nicolas Moreau\P2W_23S3_Richmond_RaceV2_4th_Gear-Wshocks.csv'  # replace with your desired CSV file path
+file_path = 'P2W_23S3_Richmond_RaceV2_4th_Gear-Wshocks.htm'  # replace with your file path
+csv_file_path = 'P2W_23S3_Richmond_RaceV2_4th_Gear-Wshocks_1.csv'  # replace with your desired CSV file path
 
 data = parse_setup_html(file_path)
 save_to_csv(data, csv_file_path)
